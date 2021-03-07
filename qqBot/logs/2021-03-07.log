@@ -1,0 +1,1685 @@
+[2021-03-07 00:04:54] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 00:04:54] [WARNING]: 将等待10s后启动 
+[2021-03-07 00:05:04] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 00:05:04] [INFO]: 用户交流群: 721829413 
+[2021-03-07 00:05:04] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 00:05:04] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 00:05:09] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 00:05:09] [INFO]: 使用协议: iPad 
+[2021-03-07 00:05:11] [INFO]: Protocol -> connect to server: 109.244.170.159:8080 
+[2021-03-07 00:05:11] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 00:05:13] [INFO]: Protocol -> connect to server: 157.148.36.198:8080 
+[2021-03-07 00:05:15] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:05:18] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 00:05:36] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 00:05:36] [INFO]: 开始加载好友列表... 
+[2021-03-07 00:05:36] [INFO]: 共加载 5 个好友. 
+[2021-03-07 00:05:36] [INFO]: 开始加载群列表... 
+[2021-03-07 00:05:36] [INFO]: 共加载 4 个群. 
+[2021-03-07 00:05:36] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 00:05:36] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 00:05:36] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 00:05:36] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 00:05:36] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 00:05:36] [INFO]: 正在检查更新. 
+[2021-03-07 00:05:36] [INFO]: CQ WebSocket 服务器已启动: 0.0.0.0:6700 
+[2021-03-07 00:05:36] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:05:36] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 00:05:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:05:39] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 00:05:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:05:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:05:46] [WARNING]: Bot已离线 (Connection lost.)，尝试重连 
+[2021-03-07 00:05:46] [INFO]: Protocol -> connect to server: 157.255.13.124:8080 
+[2021-03-07 00:05:46] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:05:46] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:05:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:05:51] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:05:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:05:56] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:05:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:06:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:06:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:06:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:06:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:06:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:06:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:06:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:06:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:06:19] [WARNING]: Bot已离线 (Connection lost.)，尝试重连 
+[2021-03-07 00:06:19] [INFO]: Protocol -> connect to server: 221.198.69.51:80 
+[2021-03-07 00:06:19] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:06:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:06:22] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 00:06:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:06:27] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:06:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:06:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:06:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:06:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:06:37] [INFO]: 重连成功 
+[2021-03-07 00:06:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:06:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:06:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:06:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:06:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:06:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:06:52] [WARNING]: Bot已离线 (Connection lost.)，尝试重连 
+[2021-03-07 00:06:52] [INFO]: Protocol -> connect to server: 157.255.13.76:8080 
+[2021-03-07 00:06:52] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:06:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:06:57] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:06:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:07:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:07:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:07:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:07:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:07:10] [INFO]: 重连成功 
+[2021-03-07 00:07:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:07:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:07:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:07:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:07:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:07:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:07:25] [WARNING]: Bot已离线 (Connection lost.)，尝试重连 
+[2021-03-07 00:07:25] [INFO]: Protocol -> connect to server: 157.255.13.60:8080 
+[2021-03-07 00:07:25] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:07:27] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:07:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:07:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:07:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:07:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:07:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:07:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:07:43] [INFO]: 重连成功 
+[2021-03-07 00:07:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:07:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:07:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:07:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:07:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:07:57] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:07:58] [WARNING]: Bot已离线 (Connection lost.)，尝试重连 
+[2021-03-07 00:07:58] [INFO]: Protocol -> connect to server: 157.255.13.53:8080 
+[2021-03-07 00:07:58] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:07:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:08:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:08:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:08:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:08:08] [INFO]: 收到好友 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: /ehco 原家浩，我永远喜欢你 (-53378919) 
+[2021-03-07 00:08:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:08:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:08:12] [INFO]: 好友 小黑ヽ(•̀ω•́ )ゝ(1173198173) 撤回了消息: -53378919 
+[2021-03-07 00:08:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:08:14] [INFO]: 重连成功 
+[2021-03-07 00:08:16] [INFO]: 重连成功 
+[2021-03-07 00:08:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:08:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:08:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:08:31] [WARNING]: Bot已离线 (Connection lost.)，尝试重连 
+[2021-03-07 00:08:31] [INFO]: Protocol -> connect to server: 157.255.13.77:8080 
+[2021-03-07 00:08:31] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:09:04] [WARNING]: Bot已离线 (Connection lost.)，尝试重连 
+[2021-03-07 00:09:04] [INFO]: Protocol -> connect to server: 157.255.13.249:8080 
+[2021-03-07 00:09:04] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:09:07] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 00:09:22] [INFO]: 重连成功 
+[2021-03-07 00:09:23] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: /echo 你好 (1436797128) 
+[2021-03-07 00:09:23] [INFO]: 发送好友 516342785(516342785)  的消息: [{"type":  ... (936571157) 
+[2021-03-07 00:09:35] [INFO]: 重连成功 
+[2021-03-07 00:09:37] [WARNING]: Bot已离线 (Connection lost.)，尝试重连 
+[2021-03-07 00:09:37] [INFO]: Protocol -> connect to server: 109.244.170.159:8080 
+[2021-03-07 00:09:38] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:10:10] [WARNING]: Bot已离线 (Connection lost.)，尝试重连 
+[2021-03-07 00:10:10] [INFO]: Protocol -> connect to server: 157.148.36.198:8080 
+[2021-03-07 00:10:10] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:10:11] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:10:11] [INFO]: 收到来自群 LuckyOwl、丿Lucky丶(855758516) 内用户 『IMayNotComeBack0』(516342785) 的加群邀请. 
+[2021-03-07 00:10:11] [INFO]: Bot进入了群 LuckyOwl、丿Lucky丶(855758516). 
+[2021-03-07 00:10:12] [INFO]: 重连成功 
+[2021-03-07 00:10:13] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 00:10:28] [INFO]: 重连成功 
+[2021-03-07 00:10:43] [WARNING]: Bot已离线 (Connection lost.)，尝试重连 
+[2021-03-07 00:10:43] [INFO]: Protocol -> connect to server: 157.255.13.124:8080 
+[2021-03-07 00:10:43] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:10:51] [INFO]: 收到群 LuckyOwl、丿Lucky丶(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (197273752) 
+[2021-03-07 00:11:04] [INFO]: 重连成功 
+[2021-03-07 00:11:14] [INFO]: 收到群 LuckyOwl、丿Lucky丶(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (-1832158942) 
+[2021-03-07 00:11:16] [WARNING]: Bot已离线 (Connection lost.)，尝试重连 
+[2021-03-07 00:11:16] [INFO]: Protocol -> connect to server: 221.198.69.51:80 
+[2021-03-07 00:11:17] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:11:36] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 00:11:36] [WARNING]: 将等待10s后启动 
+[2021-03-07 00:11:46] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 00:11:46] [INFO]: 用户交流群: 721829413 
+[2021-03-07 00:11:46] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 00:11:46] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 00:11:51] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 00:11:51] [INFO]: 使用协议: iPad 
+[2021-03-07 00:11:52] [INFO]: Protocol -> connect to server: 157.255.13.249:8080 
+[2021-03-07 00:11:52] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 00:11:53] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:11:54] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:11:56] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 00:12:15] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 00:12:15] [INFO]: 开始加载好友列表... 
+[2021-03-07 00:12:15] [INFO]: 共加载 5 个好友. 
+[2021-03-07 00:12:15] [INFO]: 开始加载群列表... 
+[2021-03-07 00:12:15] [INFO]: 共加载 5 个群. 
+[2021-03-07 00:12:15] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 00:12:15] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 00:12:15] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 00:12:15] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 00:12:15] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 00:12:15] [INFO]: 正在检查更新. 
+[2021-03-07 00:12:15] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:12:15] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 00:12:15] [INFO]: CQ WebSocket 服务器已启动: 0.0.0.0:6700 
+[2021-03-07 00:12:20] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 00:12:31] [INFO]: 收到群 LuckyOwl、丿Lucky丶(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (-439596620) 
+[2021-03-07 00:12:44] [INFO]: 新成员 小黑ヽ(•̀ω•́ )ゝ(1173198173) 进入了群 LuckyOwl、丿Lucky丶(855758516). 
+[2021-03-07 00:16:10] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: lucky test
+test (1970492453) 
+[2021-03-07 00:16:18] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (41182387) 
+[2021-03-07 00:16:58] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (-1473455865) 
+[2021-03-07 00:17:03] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=c65bc0ddc4d1b103cd422d3d978904f7.image] (-550770287) 
+[2021-03-07 00:17:16] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: hhhhh (1176680491) 
+[2021-03-07 00:17:24] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:at,qq=1214528099] /test (824543421) 
+[2021-03-07 00:17:31] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: /test (-1354687202) 
+[2021-03-07 00:17:37] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 你写的啥啊 (-666489464) 
+[2021-03-07 00:17:39] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 我傻了 (1095728178) 
+[2021-03-07 00:17:46] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 我按照那个人视频写的啊 (910707876) 
+[2021-03-07 00:17:59] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=e4adc0063a5f1c263e7a10950d51b7ef.image] (-1493741259) 
+[2021-03-07 00:18:10] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 那个人视频写出来不一定能呀 (-772775517) 
+[2021-03-07 00:18:11] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 用 (-1321736122) 
+[2021-03-07 00:18:14] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 我的就用不了 (-969877296) 
+[2021-03-07 00:18:25] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 你的插件咋写的 (1597606250) 
+[2021-03-07 00:18:29] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 教教我？ (675199484) 
+[2021-03-07 00:19:08] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (-1235604385) 
+[2021-03-07 00:19:46] [INFO]: 新成员 开甲书院表白墙(3569440659) 进入了群 LuckyOwl、丿Lucky丶(855758516). 
+[2021-03-07 00:19:59] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:at,qq=3569440659]  /test (-1050862391) 
+[2021-03-07 00:21:48] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (1481919859) 
+[2021-03-07 00:22:23] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 我刚没开2333 (794000869) 
+[2021-03-07 00:22:28] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 跟个nt一样 (-1075027852) 
+[2021-03-07 00:23:04] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:at,qq=3569440659] /test (-924102430) 
+[2021-03-07 00:23:04] [INFO]: 收到群 lucky调教之旅(855758516) 内 开甲书院表白墙(3569440659) 的消息: [CQ:at,qq=1173198173] 你好啊~ (-1709524091) 
+[2021-03-07 00:23:55] [INFO]: 收到群 lucky调教之旅(855758516) 内 开甲书院表白墙(3569440659) 的消息: 歪比歪比 (-316830957) 
+[2021-03-07 00:24:01] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 咋做的emm (1947523753) 
+[2021-03-07 00:24:17] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:image,file=20ac77491acb515e5d4f80d47adc00d9.image] (51636799) 
+[2021-03-07 00:24:39] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:at,qq=1214528099] /test (-1653112932) 
+[2021-03-07 00:24:56] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 你写的有问题吧 (-361738486) 
+[2021-03-07 00:25:00] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 我觉得 (1937317552) 
+[2021-03-07 00:25:14] [INFO]: 成员 开甲书院表白墙(3569440659) 被 小黑ヽ(•̀ω•́ )ゝ(1173198173) T出了群 LuckyOwl、丿Lucky丶(855758516). 
+[2021-03-07 00:25:20] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: test (75378214) 
+[2021-03-07 00:25:24] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=3aacb30023699333fc880e7f7ce6afa1.image] (-1799277641) 
+[2021-03-07 00:25:25] [INFO]: 群 LuckyOwl、丿Lucky丶(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: 75378214. 
+[2021-03-07 00:26:15] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 不知道。。。 (-473562335) 
+[2021-03-07 00:27:13] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 你慢慢开发吧 (-2097050940) 
+[2021-03-07 00:27:16] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 我溜了 (-200885678) 
+[2021-03-07 00:28:20] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:at,qq=1214528099]  /test (1829759976) 
+[2021-03-07 00:28:32] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (436788094) 
+[2021-03-07 00:30:38] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:53481->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 00:30:40] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:53481->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 00:30:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:30:45] [INFO]: 收到群 黑暗欺骗Dark Deception(739665386) 内 今天陪你呀(2743714014) 的消息: [CQ:image,file=aaeeca6640a93e67475e17f70fa82332.image] (-38637826) 
+[2021-03-07 00:30:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 00:30:48] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:33:56] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (-2073276707) 
+[2021-03-07 00:34:57] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:63370->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 00:35:01] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:63370->127.0.0.1:8080: use of closed network connection 
+[2021-03-07 00:35:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:35:19] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 00:35:19] [WARNING]: 将等待10s后启动 
+[2021-03-07 00:35:29] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 00:35:29] [INFO]: 用户交流群: 721829413 
+[2021-03-07 00:35:29] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 00:35:29] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 00:35:34] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 00:35:34] [INFO]: 使用协议: iPad 
+[2021-03-07 00:35:35] [INFO]: Protocol -> connect to server: 109.244.170.125:8080 
+[2021-03-07 00:35:35] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 00:35:36] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:35:37] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:35:39] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 00:35:59] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 00:35:59] [INFO]: 开始加载好友列表... 
+[2021-03-07 00:35:59] [INFO]: 共加载 5 个好友. 
+[2021-03-07 00:35:59] [INFO]: 开始加载群列表... 
+[2021-03-07 00:35:59] [INFO]: 共加载 5 个群. 
+[2021-03-07 00:35:59] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 00:35:59] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 00:35:59] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 00:35:59] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 00:35:59] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 00:35:59] [INFO]: 正在检查更新. 
+[2021-03-07 00:35:59] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 00:35:59] [INFO]: CQ WebSocket 服务器已启动: 0.0.0.0:6700 
+[2021-03-07 00:35:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:36:02] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 00:36:16] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (-211059125) 
+[2021-03-07 00:36:28] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: @丿Lucky丶 /test (1784819697) 
+[2021-03-07 00:38:29] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:63457->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 00:38:29] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:63457->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 00:40:45] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 00:40:45] [WARNING]: 将等待10s后启动 
+[2021-03-07 00:40:55] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 00:40:55] [INFO]: 用户交流群: 721829413 
+[2021-03-07 00:40:55] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 00:40:55] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 00:41:00] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 00:41:00] [INFO]: 使用协议: iPad 
+[2021-03-07 00:41:02] [INFO]: Protocol -> connect to server: 157.255.13.77:8080 
+[2021-03-07 00:41:02] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 00:41:03] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:41:04] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 00:41:05] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 00:41:24] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 00:41:24] [INFO]: 开始加载好友列表... 
+[2021-03-07 00:41:25] [INFO]: 共加载 5 个好友. 
+[2021-03-07 00:41:25] [INFO]: 开始加载群列表... 
+[2021-03-07 00:41:26] [INFO]: 共加载 5 个群. 
+[2021-03-07 00:41:26] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 00:41:26] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 00:41:26] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 00:41:26] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 00:41:26] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 00:41:26] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 00:41:26] [INFO]: 正在检查更新. 
+[2021-03-07 00:41:26] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 00:41:28] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 00:41:47] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (493166439) 
+[2021-03-07 00:48:59] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: /echo 你好 (-1915092234) 
+[2021-03-07 00:49:03] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: -1915092234. 
+[2021-03-07 00:49:09] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: /echo 你好 (-603462632) 
+[2021-03-07 00:49:09] [INFO]: 发送好友 516342785(516342785)  的消息: [{"type":  ... (936571157) 
+[2021-03-07 00:49:16] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: @丿Lucky丶 /test (-86166944) 
+[2021-03-07 00:49:50] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: [CQ:image,file=f8b3b1de091dd6357cced604c414c8d2.image] (1287190921) 
+[2021-03-07 00:50:09] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: lucky test (1002424607) 
+[2021-03-07 10:11:41] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 10:11:41] [WARNING]: 将等待10s后启动 
+[2021-03-07 10:11:51] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 10:11:51] [INFO]: 用户交流群: 721829413 
+[2021-03-07 10:11:51] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 10:11:51] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 10:11:56] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 10:11:56] [INFO]: 使用协议: iPad 
+[2021-03-07 10:11:58] [INFO]: Protocol -> connect to server: 157.255.13.124:8080 
+[2021-03-07 10:11:58] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 10:11:58] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 10:11:59] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 10:12:01] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 10:12:20] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 10:12:20] [INFO]: 开始加载好友列表... 
+[2021-03-07 10:12:20] [INFO]: 共加载 5 个好友. 
+[2021-03-07 10:12:20] [INFO]: 开始加载群列表... 
+[2021-03-07 10:12:21] [INFO]: 共加载 5 个群. 
+[2021-03-07 10:12:21] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 10:12:21] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 10:12:21] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 10:12:21] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 10:12:21] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 10:12:21] [INFO]: 正在检查更新. 
+[2021-03-07 10:12:21] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:12:21] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 10:12:23] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 10:12:36] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: /echo 你好 (1528541751) 
+[2021-03-07 10:12:36] [INFO]: 发送好友 516342785(516342785)  的消息: [{"type":  ... (936571157) 
+[2021-03-07 10:12:47] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (-868213757) 
+[2021-03-07 10:12:48] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1152963435) 
+[2021-03-07 10:12:51] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: ！ (575569199) 
+[2021-03-07 10:15:36] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 我好了 (1430867385) 
+[2021-03-07 10:18:18] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:55971->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 10:18:21] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:55971->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 10:18:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:18:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:18:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:18:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:18:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:18:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:18:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:18:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:18:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:18:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:18:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:18:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:18:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:18:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:18:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:19:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:19:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:19:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:19:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:19:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:19:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:19:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:19:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:19:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:19:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:19:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:19:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:19:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:19:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:19:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:19:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:19:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:19:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:19:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:19:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:19:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:19:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:19:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:19:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:20:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:20:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:20:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:20:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:20:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:20:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:20:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:20:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:20:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:20:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:20:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:20:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:20:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:20:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:20:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:20:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:20:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:20:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:20:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:20:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:20:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:20:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:20:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:20:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:21:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:21:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:21:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:21:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:21:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:21:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:21:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:21:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:21:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:21:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:21:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:21:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:21:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:21:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:21:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:21:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:21:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:21:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:21:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:21:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:21:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:21:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:21:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:21:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:22:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:22:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:22:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:22:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:22:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:22:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:22:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:22:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:22:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:22:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:22:25] [INFO]: 收到群 黑暗欺骗Dark Deception(739665386) 内 打酱油的hh(1609320087) 的消息: [CQ:image,file=be526d19fc98bbf8e2163e2e1ca9729c.image] (1675033437) 
+[2021-03-07 10:22:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:22:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:22:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:22:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:22:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:22:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:22:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:22:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:22:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:22:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:22:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:22:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:22:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:22:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:23:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:23:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:23:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:23:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:23:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:23:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:23:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:23:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:23:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:23:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:23:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:23:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:23:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:23:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:23:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:23:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:23:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:23:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:23:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:23:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:23:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:23:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:23:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:23:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:24:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:24:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:24:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:24:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:24:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:24:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:24:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:24:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:24:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:24:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:24:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:24:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:24:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:24:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:24:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:24:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:24:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:24:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:24:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:24:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:24:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:24:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:24:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:24:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:25:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:25:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:25:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:25:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:25:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:25:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:25:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:25:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:25:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:25:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:25:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:25:29] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (-886188006) 
+[2021-03-07 10:25:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:25:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:25:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:25:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:25:39] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (-1138038644) 
+[2021-03-07 10:25:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:25:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:25:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:25:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:25:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:25:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:25:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:25:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:25:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:26:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:26:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:26:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:26:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:26:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:26:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:26:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:26:19] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:26:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:26:24] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:26:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:26:29] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:26:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:26:34] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:26:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:26:39] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:26:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:26:44] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:26:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:26:49] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:26:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:26:54] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:26:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:26:59] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:27:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:27:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:27:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:28:32] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 10:28:32] [WARNING]: 将等待10s后启动 
+[2021-03-07 10:28:42] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 10:28:42] [INFO]: 用户交流群: 721829413 
+[2021-03-07 10:28:42] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 10:28:42] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 10:28:47] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 10:28:47] [INFO]: 使用协议: iPad 
+[2021-03-07 10:28:48] [INFO]: Protocol -> connect to server: 109.244.168.2:8080 
+[2021-03-07 10:28:48] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 10:28:49] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 10:28:50] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 10:28:52] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 10:29:11] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 10:29:11] [INFO]: 开始加载好友列表... 
+[2021-03-07 10:29:11] [INFO]: 共加载 5 个好友. 
+[2021-03-07 10:29:11] [INFO]: 开始加载群列表... 
+[2021-03-07 10:29:12] [INFO]: 共加载 5 个群. 
+[2021-03-07 10:29:12] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 10:29:12] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 10:29:12] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 10:29:12] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 10:29:12] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 10:29:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:29:12] [INFO]: 正在检查更新. 
+[2021-03-07 10:29:12] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 10:29:13] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 10:29:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:29:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:29:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:29:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:29:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:29:27] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:29:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:29:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:29:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:29:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:29:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:29:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:29:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:29:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:29:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:29:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:29:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:29:57] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:29:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:30:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:30:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:30:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:30:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:30:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:30:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:30:17] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:30:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:30:22] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:30:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:30:27] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:30:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:30:32] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:30:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:30:37] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:30:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:30:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:30:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:30:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:30:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:30:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:30:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:30:57] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:30:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:31:02] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:31:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:31:07] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:31:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:36:01] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 10:36:02] [WARNING]: 将等待10s后启动 
+[2021-03-07 10:36:12] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 10:36:12] [INFO]: 用户交流群: 721829413 
+[2021-03-07 10:36:12] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 10:36:12] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 10:36:17] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 10:36:17] [INFO]: 使用协议: iPad 
+[2021-03-07 10:36:18] [INFO]: Protocol -> connect to server: 157.255.13.76:8080 
+[2021-03-07 10:36:18] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 10:36:18] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 10:36:19] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 10:36:21] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 10:36:40] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 10:36:40] [INFO]: 开始加载好友列表... 
+[2021-03-07 10:36:40] [INFO]: 共加载 5 个好友. 
+[2021-03-07 10:36:40] [INFO]: 开始加载群列表... 
+[2021-03-07 10:36:41] [INFO]: 共加载 5 个群. 
+[2021-03-07 10:36:41] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 10:36:41] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 10:36:41] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 10:36:41] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 10:36:41] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 10:36:41] [INFO]: 正在检查更新. 
+[2021-03-07 10:36:41] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:36:41] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 10:36:43] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 10:36:46] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: lucky test (623098166) 
+[2021-03-07 10:36:47] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1378126240) 
+[2021-03-07 10:36:57] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:50009->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 10:37:01] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:50009->127.0.0.1:8080: use of closed network connection 
+[2021-03-07 10:37:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:37:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 10:37:09] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:38:39] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 10:38:39] [WARNING]: 将等待10s后启动 
+[2021-03-07 10:38:49] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 10:38:49] [INFO]: 用户交流群: 721829413 
+[2021-03-07 10:38:49] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 10:38:49] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 10:38:54] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 10:38:54] [INFO]: 使用协议: iPad 
+[2021-03-07 10:38:55] [INFO]: Protocol -> connect to server: 157.148.36.198:14000 
+[2021-03-07 10:38:55] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 10:38:56] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 10:38:57] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 10:39:17] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 10:39:17] [INFO]: 开始加载好友列表... 
+[2021-03-07 10:39:17] [INFO]: 共加载 5 个好友. 
+[2021-03-07 10:39:17] [INFO]: 开始加载群列表... 
+[2021-03-07 10:39:18] [INFO]: 共加载 5 个群. 
+[2021-03-07 10:39:18] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 10:39:18] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 10:39:18] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 10:39:18] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 10:39:18] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 10:39:18] [INFO]: 正在检查更新. 
+[2021-03-07 10:39:18] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 10:39:18] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:39:21] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 10:39:45] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: test (-1029991375) 
+[2021-03-07 10:39:46] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1248025433) 
+[2021-03-07 10:40:33] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 10:40:33] [WARNING]: 将等待10s后启动 
+[2021-03-07 10:40:43] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 10:40:43] [INFO]: 用户交流群: 721829413 
+[2021-03-07 10:40:43] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 10:40:43] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 10:40:48] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 10:40:48] [INFO]: 使用协议: iPad 
+[2021-03-07 10:40:49] [INFO]: Protocol -> connect to server: 157.255.13.76:8080 
+[2021-03-07 10:40:49] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 10:40:50] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 10:40:51] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 10:41:11] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 10:41:11] [INFO]: 开始加载好友列表... 
+[2021-03-07 10:41:11] [INFO]: 共加载 5 个好友. 
+[2021-03-07 10:41:11] [INFO]: 开始加载群列表... 
+[2021-03-07 10:41:12] [INFO]: 共加载 5 个群. 
+[2021-03-07 10:41:12] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 10:41:12] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 10:41:12] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 10:41:12] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 10:41:12] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 10:41:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:41:12] [INFO]: 正在检查更新. 
+[2021-03-07 10:41:12] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 10:41:14] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 10:41:42] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: test (-715444926) 
+[2021-03-07 10:41:42] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1571021356) 
+[2021-03-07 10:41:45] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (995445870) 
+[2021-03-07 10:43:35] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (1280474360) 
+[2021-03-07 10:43:40] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: test (-768153253) 
+[2021-03-07 10:43:40] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1523459635) 
+[2021-03-07 10:45:25] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (1010337911) 
+[2021-03-07 10:45:31] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: test (1262467297) 
+[2021-03-07 10:45:31] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-612326032) 
+[2021-03-07 10:46:07] [INFO]: 收到群 黑暗欺骗Dark Deception(739665386) 内 Pen说并给了你一电拍(591376718) 的消息: [CQ:image,file=ea4215badc8882d211c60b9a0eba5fa0.image] (349293515) 
+[2021-03-07 10:46:11] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (-1400400410) 
+[2021-03-07 10:46:33] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (-25788799) 
+[2021-03-07 10:48:14] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (-1989063145) 
+[2021-03-07 10:48:19] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: -1989063145. 
+[2021-03-07 10:48:21] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: -25788799. 
+[2021-03-07 10:48:23] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: -1400400410. 
+[2021-03-07 10:48:25] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: 1262467297. 
+[2021-03-07 10:48:27] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: 1010337911. 
+[2021-03-07 10:50:02] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (276307885) 
+[2021-03-07 10:50:10] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (1736388411) 
+[2021-03-07 10:50:18] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: test (-115623272) 
+[2021-03-07 10:50:18] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1910732274) 
+[2021-03-07 10:51:10] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: test (387308468) 
+[2021-03-07 10:51:10] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1611852578) 
+[2021-03-07 10:51:44] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (-257034573) 
+[2021-03-07 10:52:07] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: test (-2018851291) 
+[2021-03-07 10:52:08] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-412266560) 
+[2021-03-07 10:52:22] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: test (-1872068778) 
+[2021-03-07 10:52:22] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (157495020) 
+[2021-03-07 10:52:39] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:50259->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 10:52:42] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:50259->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 10:52:45] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:54:53] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: 。 (-2032018514) 
+[2021-03-07 10:54:59] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (2120490618) 
+[2021-03-07 10:55:06] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: test (-536835111) 
+[2021-03-07 10:55:06] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1761100977) 
+[2021-03-07 10:55:14] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:50454->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 10:55:17] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:50454->127.0.0.1:8080: use of closed network connection 
+[2021-03-07 10:55:20] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 10:55:24] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (235858677) 
+[2021-03-07 10:55:25] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (2030688867) 
+[2021-03-07 10:55:31] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 终于 (-373897230) 
+[2021-03-07 10:55:33] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 555 (-1632503964) 
+[2021-03-07 10:55:38] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: test (1626690319) 
+[2021-03-07 10:55:39] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (401761177) 
+[2021-03-07 10:55:42] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (-1896140253) 
+[2021-03-07 10:55:42] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-100924747) 
+[2021-03-07 10:55:51] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=1ec766eace21ebcaaee2de0c8dff0a6f.image] (1738053398) 
+[2021-03-07 10:59:58] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 女王(1525239975) 的消息: 太艹了 (719033359) 
+[2021-03-07 11:01:15] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:50498->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 11:01:17] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:50498->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 11:01:20] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 11:01:32] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: 。 (-1432269708) 
+[2021-03-07 11:01:38] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (278898560) 
+[2021-03-07 11:01:38] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1986595270) 
+[2021-03-07 11:01:40] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 中午好 (-24000852) 
+[2021-03-07 11:01:40] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1848564541) 
+[2021-03-07 11:01:45] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=a691574dceab3f7c13533c604db66917.image] (422177707) 
+[2021-03-07 11:01:50] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 芜湖 (2045665870) 
+[2021-03-07 11:06:57] [INFO]: 收到群 黑暗欺骗Dark Deception(739665386) 内 爱玩矢量的大爷(1836448651) 的消息: [CQ:reply,id=1675033437][CQ:at,qq=1609320087] [CQ:at,qq=1609320087] 我猜是🕊️模拟器 (-2073110950) 
+[2021-03-07 11:08:01] [INFO]: Bot退出了群 黑暗欺骗Dark Deception(739665386). 
+[2021-03-07 11:13:39] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 早上好 (250172120) 
+[2021-03-07 11:13:39] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1746926750) 
+[2021-03-07 11:13:49] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 原家浩 (-521718796) 
+[2021-03-07 11:13:51] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 都tm中午了[CQ:face,id=146] (2122557015) 
+[2021-03-07 11:13:53] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 永远滴神 (159684289) 
+[2021-03-07 11:13:59] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 艹 (-1869756549) 
+[2021-03-07 11:14:08] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 我要让他说原家浩永远的废物 (-410322963) 
+[2021-03-07 11:14:11] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:face,id=146] (2000022140) 
+[2021-03-07 11:14:14] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: /echo原家浩永远滴神 (3332842) 
+[2021-03-07 11:14:27] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: /echo 原家浩永远滴神 (-1443974352) 
+[2021-03-07 11:14:33] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 啊这 (-555121754) 
+[2021-03-07 11:14:37] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:at,qq=1214528099] /echo原家浩永远滴神 (1205916188) 
+[2021-03-07 11:14:38] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (820503178) 
+[2021-03-07 11:14:44] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 离谱 (-1367115991) 
+[2021-03-07 11:14:56] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:image,file=1f8a77f1483c1633bd883234aaa1585d.image] (-645642305) 
+[2021-03-07 11:15:09] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:at,qq=1214528099] /echo 小黑酱不是真神？ (1082988037) 
+[2021-03-07 11:15:09] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (931800723) 
+[2021-03-07 11:15:16] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=a691574dceab3f7c13533c604db66917.image] (-1489683710) 
+[2021-03-07 11:15:43] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 满足了 (-802026604) 
+[2021-03-07 11:15:52] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 下午搞点其他的插件 (-1326087567) 
+[2021-03-07 11:16:07] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好啊 (-940395801) 
+[2021-03-07 11:16:07] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1593566045) 
+[2021-03-07 11:16:15] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 这个是关键词回复么 (704435147) 
+[2021-03-07 11:16:22] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 这个是关键词回复么早上好 (-1214757272) 
+[2021-03-07 11:16:27] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: -1214757272. 
+[2021-03-07 11:16:34] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 好像不是 (-1063291138) 
+[2021-03-07 11:16:42] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好好像不是 (1503012676) 
+[2021-03-07 11:16:42] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (781260754) 
+[2021-03-07 11:16:45] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: 1503012676. 
+[2021-03-07 11:16:51] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 有点离谱 (-1104278973) 
+[2021-03-07 11:17:48] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 早上好原家浩 (-920044843) 
+[2021-03-07 11:17:48] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1680289358) 
+[2021-03-07 11:17:53] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 啊这 (-320872156) 
+[2021-03-07 11:18:07] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:image,file=1599adbeac3f8bf980b3d4e151b97ede.image] (1977004190) 
+[2021-03-07 11:18:11] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 原家浩早上好 (47284232) 
+[2021-03-07 11:18:22] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 应该是开头 (-1665854037) 
+[2021-03-07 11:18:23] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 的 (-340646595) 
+[2021-03-07 11:18:24] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 只读前几个词 (1924887687) 
+[2021-03-07 11:18:26] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 是的 (96224273) 
+[2021-03-07 11:18:27] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 嗯 (-1794942592) 
+[2021-03-07 11:18:30] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 满足了就触发 (-503027434) 
+[2021-03-07 11:18:44] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 我想弄个关键类的 (-2101092109) 
+[2021-03-07 11:18:44] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 早上好原家浩永远滴神 (-171650971) 
+[2021-03-07 11:18:44] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1825407455) 
+[2021-03-07 11:18:56] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:image,file=4dc5317434edecbdc4ecce589b488f7c.image] (466268489) 
+[2021-03-07 11:19:07] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 深井冰啊[CQ:face,id=178][CQ:face,id=146] (-2052184854) 
+[2021-03-07 11:19:12] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 这也太棒了吧 (-223800196) 
+[2021-03-07 11:19:21] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 你咋写的 (1805665734) 
+[2021-03-07 11:19:24] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:image,file=1599adbeac3f8bf980b3d4e151b97ede.image] (480736592) 
+[2021-03-07 11:19:26] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 啊？ (-1944557375) 
+[2021-03-07 11:19:32] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 就视频test改的啊 (-81831849) 
+[2021-03-07 11:19:39] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 中午好张泰豪yyds (-847088076) 
+[2021-03-07 11:19:40] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1165670750) 
+[2021-03-07 11:20:16] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 获取系统时间是什么函数来着emmm (596383512) 
+[2021-03-07 11:20:29] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 我想到一个好玩的了[CQ:face,id=178][CQ:face,id=146] (1418405774) 
+[2021-03-07 11:23:10] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: import time (-890260947) 
+[2021-03-07 11:23:22] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 这样 (-1108835653) 
+[2021-03-07 11:23:33] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 我下午写个高级点的greeting (618779393) 
+[2021-03-07 11:24:39] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 快写 (1407640471) 
+[2021-03-07 11:24:49] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 写好了我copy (-1017512442) 
+[2021-03-07 11:25:14] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:50545->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 12:46:39] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 12:46:39] [WARNING]: 将等待10s后启动 
+[2021-03-07 12:47:02] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 12:47:02] [WARNING]: 将等待10s后启动 
+[2021-03-07 12:47:12] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 12:47:12] [INFO]: 用户交流群: 721829413 
+[2021-03-07 12:47:12] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 12:47:12] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 12:47:17] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 12:47:17] [INFO]: 使用协议: iPad 
+[2021-03-07 12:47:18] [INFO]: Protocol -> connect to server: 157.255.13.124:8080 
+[2021-03-07 12:47:18] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 12:47:19] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 12:47:19] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 12:47:22] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 12:47:39] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 12:47:39] [INFO]: 开始加载好友列表... 
+[2021-03-07 12:47:40] [INFO]: 共加载 5 个好友. 
+[2021-03-07 12:47:40] [INFO]: 开始加载群列表... 
+[2021-03-07 12:47:40] [INFO]: 共加载 4 个群. 
+[2021-03-07 12:47:40] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 12:47:40] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 12:47:40] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 12:47:40] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 12:47:40] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 12:47:40] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 12:47:40] [INFO]: 正在检查更新. 
+[2021-03-07 12:47:40] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 12:47:42] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 12:47:50] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 12:47:50] [INFO]: 收到来自群 LuckyOwl、丿Lucky丶(850498337) 内用户 『IMayNotComeBack0』(516342785) 的加群邀请. 
+[2021-03-07 12:47:50] [INFO]: Bot进入了群 LuckyOwl、丿Lucky丶(850498337). 
+[2021-03-07 12:47:59] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 中午好 (-115376003) 
+[2021-03-07 12:47:59] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (1612108231) 
+[2021-03-07 12:48:03] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 早上好 (387047761) 
+[2021-03-07 12:48:03] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-1988791054) 
+[2021-03-07 12:48:13] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 啊这 (-26065820) 
+[2021-03-07 12:48:33] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:50718->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 12:55:29] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 12:55:29] [WARNING]: 将等待10s后启动 
+[2021-03-07 12:55:39] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 12:55:39] [INFO]: 用户交流群: 721829413 
+[2021-03-07 12:55:39] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 12:55:39] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 12:55:44] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 12:55:44] [INFO]: 使用协议: iPad 
+[2021-03-07 12:55:46] [INFO]: Protocol -> connect to server: 157.255.13.53:8080 
+[2021-03-07 12:55:46] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 12:55:46] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 12:55:47] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 12:55:47] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 12:56:07] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 12:56:07] [INFO]: 开始加载好友列表... 
+[2021-03-07 12:56:08] [INFO]: 共加载 5 个好友. 
+[2021-03-07 12:56:08] [INFO]: 开始加载群列表... 
+[2021-03-07 12:56:08] [INFO]: 共加载 5 个群. 
+[2021-03-07 12:56:08] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 12:56:08] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 12:56:08] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 12:56:08] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 12:56:08] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 12:56:08] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 12:56:08] [INFO]: 正在检查更新. 
+[2021-03-07 12:56:08] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 12:56:10] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 12:56:11] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 早上好 (1736119774) 
+[2021-03-07 12:56:11] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (276571464) 
+[2021-03-07 12:56:16] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 中午好 (-2134689575) 
+[2021-03-07 12:56:16] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-138147761) 
+[2021-03-07 04:56:37] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 早上好 (-1761377878) 
+[2021-03-07 04:56:37] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-536563396) 
+[2021-03-07 04:57:43] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 中午好 (2030952582) 
+[2021-03-07 04:57:43] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (235589648) 
+[2021-03-07 04:57:46] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 早上好 (-1871821389) 
+[2021-03-07 04:57:47] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-412519131) 
+[2021-03-07 04:57:55] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:50863->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 04:57:58] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:50863->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 04:58:01] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 04:58:02] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 早上好 (2120230047) 
+[2021-03-07 04:58:02] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (157750281) 
+[2021-03-07 04:58:06] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 中午好 (-1713895016) 
+[2021-03-07 04:58:06] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-287360754) 
+[2021-03-07 12:58:42] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 早上好 (-1137782167) 
+[2021-03-07 12:58:42] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-886447361) 
+[2021-03-07 12:58:47] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 中午好 (1377874757) 
+[2021-03-07 12:58:47] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (623346643) 
+[2021-03-07 22:58:54] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 早上好 (-1153231248) 
+[2021-03-07 22:58:54] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-867948826) 
+[2021-03-07 22:59:00] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 中午好 (1431140188) 
+[2021-03-07 22:59:01] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (575293386) 
+[2021-03-07 23:02:09] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:50889->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 23:02:09] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:50889->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 23:02:12] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 23:02:20] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 早上好 (-1292543397) 
+[2021-03-07 23:02:20] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-973968691) 
+[2021-03-07 23:02:24] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 中午好 (-1523195096) 
+[2021-03-07 23:02:24] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-768420930) 
+[2021-03-07 16:02:39] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 早上好 (1262191108) 
+[2021-03-07 16:02:39] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (1010610834) 
+[2021-03-07 16:02:41] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 中午好 (-1571281103) 
+[2021-03-07 16:02:42] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-715188313) 
+[2021-03-07 13:02:48] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 早上好 (1280722461) 
+[2021-03-07 13:02:48] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (995194507) 
+[2021-03-07 13:02:50] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 中午好 (-1410438374) 
+[2021-03-07 13:02:50] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-588686452) 
+[2021-03-07 10:02:55] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 早上好 (581828583) 
+[2021-03-07 10:02:56] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (1437257585) 
+[2021-03-07 10:02:57] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 中午好 (-861692213) 
+[2021-03-07 10:02:57] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-1146835363) 
+[2021-03-07 05:03:11] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 早上好 (633355262) 
+[2021-03-07 05:03:11] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (1388776296) 
+[2021-03-07 05:03:15] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 中午好 (-875668782) 
+[2021-03-07 05:03:16] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-1127650748) 
+[2021-03-07 13:05:28] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:50969->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:05:28] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:50969->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:05:31] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 13:05:40] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (-728152203) 
+[2021-03-07 13:05:40] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1549895709) 
+[2021-03-07 13:05:44] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 中午好 (982984281) 
+[2021-03-07 13:05:44] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1301288655) 
+[2021-03-07 13:05:49] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 好了 (-738950292) 
+[2021-03-07 13:06:08] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:51002->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:06:13] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:51002->127.0.0.1:8080: use of closed network connection 
+[2021-03-07 13:06:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 13:06:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 13:06:21] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 13:06:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 13:13:36] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 13:13:36] [WARNING]: 将等待10s后启动 
+[2021-03-07 13:13:46] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 13:13:46] [INFO]: 用户交流群: 721829413 
+[2021-03-07 13:13:46] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 13:13:46] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 13:13:51] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 13:13:51] [INFO]: 使用协议: iPad 
+[2021-03-07 13:13:52] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 13:13:52] [INFO]: Protocol -> connect to server: 157.255.13.53:8080 
+[2021-03-07 13:13:53] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 13:13:54] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 13:13:54] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 13:14:14] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 13:14:14] [INFO]: 开始加载好友列表... 
+[2021-03-07 13:14:14] [INFO]: 共加载 5 个好友. 
+[2021-03-07 13:14:14] [INFO]: 开始加载群列表... 
+[2021-03-07 13:14:15] [INFO]: 共加载 5 个群. 
+[2021-03-07 13:14:15] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 13:14:15] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 13:14:15] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 13:14:15] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 13:14:15] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 13:14:15] [INFO]: 正在检查更新. 
+[2021-03-07 13:14:15] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 13:14:15] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 13:14:15] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 中午好 (1534150467) 
+[2021-03-07 13:14:16] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (1001836198) 
+[2021-03-07 13:14:19] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 13:14:19] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 阿哲 (1286733360) 
+[2021-03-07 13:14:23] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 啊这 (-709316726) 
+[2021-03-07 13:14:35] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:51243->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:14:35] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:51243->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:14:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 13:14:38] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:51253->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:14:40] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:51253->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:14:43] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 13:14:44] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 啊这 (-1564500196) 
+[2021-03-07 13:14:45] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (1020988095) 
+[2021-03-07 13:14:49] [INFO]: 群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: -709316726. 
+[2021-03-07 13:17:59] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 不是说现在有三个可以打百万伤害的吗 (868263246) 
+[2021-03-07 13:18:01] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:51261->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:18:05] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:51261->127.0.0.1:8080: use of closed network connection 
+[2021-03-07 13:18:08] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 13:18:13] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 莫娜公子胡桃 (1153930712) 
+[2021-03-07 13:18:14] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: /echo 你好 (-1527532550) 
+[2021-03-07 13:18:18] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: -1527532550. 
+[2021-03-07 13:18:26] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: /echo 你好 (1272724009) 
+[2021-03-07 13:18:36] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: 啊这 (-757765229) 
+[2021-03-07 13:18:36] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (-1512940795) 
+[2021-03-07 13:19:28] [INFO]: 收到群 LuckyOwl、丿Lucky丶(850498337) 内 LuckyOwl(516342785) 的消息: [CQ:at,qq=1214528099] /echo yyds (896353940) 
+[2021-03-07 13:19:28] [INFO]: 发送群 850498337(850498337)  的消息: [{"type":  ... (1114273282) 
+[2021-03-07 13:19:47] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:51292->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:19:50] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:51292->127.0.0.1:8080: use of closed network connection 
+[2021-03-07 13:19:53] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 13:20:03] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 我写了个时间判定 (1039852096) 
+[2021-03-07 13:20:20] [INFO]: Bot被 LuckyOwl(516342785) T出了群 LuckyOwl、丿Lucky丶(850498337). 
+[2021-03-07 13:20:48] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 不同时间发早上好中午好回复不一样 (1258148566) 
+[2021-03-07 13:20:49] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=a691574dceab3f7c13533c604db66917.image] (-633155769) 
+[2021-03-07 13:44:00] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:image,file=4dc5317434edecbdc4ecce589b488f7c.image] (-1387921455) 
+[2021-03-07 13:44:12] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 你来啦[CQ:face,id=178] (-4975434) 
+[2021-03-07 13:44:17] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:at,qq=1214528099] /echo 原家浩永远滴神 (-2001525728) 
+[2021-03-07 13:44:17] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (297432474) 
+[2021-03-07 13:44:24] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 艹 (1723680012) 
+[2021-03-07 13:44:49] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 消息插件也就这样了吧 (-119942993) 
+[2021-03-07 13:44:56] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 想不到还能写啥了 (-1881219015) 
+[2021-03-07 13:52:15] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (383234435) 
+[2021-03-07 13:52:25] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 这不得实现全自动交流 (1641054485) 
+[2021-03-07 13:53:30] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:51306->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:53:30] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:51306->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:53:33] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 13:53:38] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 就这 (-244343676) 
+[2021-03-07 13:53:39] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-2039960558) 
+[2021-03-07 13:54:29] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 这咋全自动 (-424729097) 
+[2021-03-07 13:54:38] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 真就深度学习？？？ (-1851255455) 
+[2021-03-07 13:54:40] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 啊这 (144786651) 
+[2021-03-07 13:54:40] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (2141615181) 
+[2021-03-07 13:54:55] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 我现在只有几句简单的吐槽 (-507321874) 
+[2021-03-07 13:55:11] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:at,qq=1214528099]  (-1765420680) 
+[2021-03-07 13:55:15] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: -1765420680. 
+[2021-03-07 13:55:35] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 它也不会关键字回复 (265060546) 
+[2021-03-07 13:55:38] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 就很淦 (2026614868) 
+[2021-03-07 13:55:42] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 挺好的 (-395006523) 
+[2021-03-07 13:57:59] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:51394->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:58:00] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:51394->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:58:03] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 13:58:04] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 张泰豪 (-1619813037) 
+[2021-03-07 13:58:04] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1631009080) 
+[2021-03-07 13:58:10] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 丿Lucky丶(1214528099) 的消息: 1631009080. 
+[2021-03-07 13:58:14] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 淦 (372246958) 
+[2021-03-07 13:58:15] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: -1619813037. 
+[2021-03-07 13:58:34] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:51428->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:58:35] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:51428->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:58:38] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 张泰豪 (-1892067308) 
+[2021-03-07 13:58:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 13:58:39] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-130127742) 
+[2021-03-07 13:58:44] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 张泰豪 (1717239073) 
+[2021-03-07 13:58:44] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (291360183) 
+[2021-03-07 13:59:19] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:51442->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 13:59:20] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:51442->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 16:08:24] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 16:08:24] [WARNING]: 将等待10s后启动 
+[2021-03-07 16:08:34] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 16:08:35] [INFO]: 用户交流群: 721829413 
+[2021-03-07 16:08:35] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 16:08:35] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 16:08:40] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 16:08:40] [INFO]: 使用协议: iPad 
+[2021-03-07 16:08:41] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 16:08:41] [INFO]: Protocol -> connect to server: 157.255.13.220:8080 
+[2021-03-07 16:08:42] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 16:08:43] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 16:08:43] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 16:08:45] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 16:09:03] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 16:09:03] [INFO]: 开始加载好友列表... 
+[2021-03-07 16:09:03] [INFO]: 共加载 6 个好友. 
+[2021-03-07 16:09:03] [INFO]: 开始加载群列表... 
+[2021-03-07 16:09:03] [INFO]: 共加载 4 个群. 
+[2021-03-07 16:09:04] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 16:09:04] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 16:09:04] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 16:09:04] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 16:09:04] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 16:09:04] [INFO]: 正在检查更新. 
+[2021-03-07 16:09:04] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 16:09:04] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 16:09:05] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 16:09:05] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:image,file=1340527b9f30666d9f4b05331a69d9b3.image] (1861178179) 
+[2021-03-07 16:09:08] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (434660309) 
+[2021-03-07 16:09:09] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1990754748) 
+[2021-03-07 16:09:13] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 狼和龙 (-2025125607) 
+[2021-03-07 16:09:41] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 路绘(1950598271) 的消息: [CQ:reply,id=-2025125607][CQ:at,qq=1875710980] [CQ:at,qq=1875710980] 应该没有吧 (422550714) 
+[2021-03-07 16:09:57] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 路绘(1950598271) 的消息: 现在26级 (1848159276) 
+[2021-03-07 16:09:59] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 每周只能打一次，千万要打 (-148767338) 
+[2021-03-07 16:10:29] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 可以加好友，我能帮你打狼 (-2144940800) 
+[2021-03-07 16:10:41] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 龙只能单挑 (278515857) 
+[2021-03-07 16:10:48] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 路绘(1950598271) 的消息: [CQ:image,file=02fffb2a7b70573ebeedeb67a132b8e4.image] (1738465287) 
+[2021-03-07 16:11:06] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 路绘(1950598271) 的消息: 我是B服的呀 (123300322) 
+[2021-03-07 16:11:31] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 不同服不能加好友吗 (1885231476) 
+[2021-03-07 16:11:32] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: /echo 你好 (517035021) 
+[2021-03-07 16:11:32] [INFO]: 发送好友 516342785(516342785)  的消息: [{"type":  ... (936571157) 
+[2021-03-07 16:11:42] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 路绘(1950598271) 的消息: [CQ:reply,id=-2144940800][CQ:at,qq=1875710980] [CQ:at,qq=1875710980] 狼我地图上没有呀 (-380172082) 
+[2021-03-07 16:11:52] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 路绘(1950598271) 的消息: [CQ:reply,id=1885231476][CQ:at,qq=1875710980] [CQ:at,qq=1875710980] 不能的 (-1638909864) 
+[2021-03-07 16:11:56] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 风龙废墟开了吗 (3452411) 
+[2021-03-07 16:12:07] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 路绘(1950598271) 的消息: [CQ:reply,id=3452411][CQ:at,qq=1875710980] [CQ:at,qq=1875710980] 开了的 (1999871341) 
+[2021-03-07 16:12:20] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (-28291374) 
+[2021-03-07 16:12:21] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-926064463) 
+[2021-03-07 16:12:22] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (-1077260249) 
+[2021-03-07 16:12:22] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (650314141) 
+[2021-03-07 16:12:22] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (1371812107) 
+[2021-03-07 16:12:22] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-811555672) 
+[2021-03-07 16:12:23] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (-1196977090) 
+[2021-03-07 16:12:23] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (565101956) 
+[2021-03-07 16:12:23] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (1453978898) 
+[2021-03-07 16:12:23] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-971577213) 
+[2021-03-07 16:12:23] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (-1324230635) 
+[2021-03-07 16:12:24] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-774483472) 
+[2021-03-07 16:12:24] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (-1496227482) 
+[2021-03-07 16:12:24] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1222574154) 
+[2021-03-07 16:12:24] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (1071132892) 
+[2021-03-07 16:12:25] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (-1581472385) 
+[2021-03-07 16:12:25] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-692349463) 
+[2021-03-07 16:12:25] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (951448773) 
+[2021-03-07 16:12:25] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (1337115731) 
+[2021-03-07 16:12:25] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-552740414) 
+[2021-03-07 16:12:25] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (-1475679916) 
+[2021-03-07 16:12:26] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-84213197) 
+[2021-03-07 16:12:26] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (-1912851803) 
+[2021-03-07 16:12:26] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (351626015) 
+[2021-03-07 16:12:26] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (1676825481) 
+[2021-03-07 16:12:26] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-40450518) 
+[2021-03-07 16:12:27] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (-1970145604) 
+[2021-03-07 16:12:27] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (328771334) 
+[2021-03-07 16:12:27] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (1688180624) 
+[2021-03-07 16:12:27] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-199194111) 
+[2021-03-07 16:12:27] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (-2094548329) 
+[2021-03-07 16:12:28] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-471846030) 
+[2021-03-07 16:12:28] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (-1796799516) 
+[2021-03-07 16:12:28] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (233722462) 
+[2021-03-07 16:12:28] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (2062115528) 
+[2021-03-07 16:12:28] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-460458133) 
+[2021-03-07 16:12:29] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这 (-1819621379) 
+[2021-03-07 16:12:29] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (176395847) 
+[2021-03-07 16:12:30] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 就这
+就这 (2105845457) 
+[2021-03-07 16:12:30] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-314852544) 
+[2021-03-07 16:12:41] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 这个是风魔龙 (-298136361) 
+[2021-03-07 16:12:43] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: [CQ:image,file=690a8754a136600ddb59b76eb6f594c7.image] (-1723990975) 
+[2021-03-07 16:12:50] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 啊这 (-1707308074) 
+[2021-03-07 16:12:50] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1685598141) 
+[2021-03-07 16:12:54] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 这个是北风狼 (159572432) 
+[2021-03-07 16:12:57] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 啊这 (327098155) 
+[2021-03-07 16:12:57] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1971958127) 
+[2021-03-07 16:12:57] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: [CQ:image,file=0f14a5dd3870cdefce8581c11978c356.image] (2122699078) 
+[2021-03-07 16:12:58] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 啊这 (-42893817) 
+[2021-03-07 16:12:58] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1662380964) 
+[2021-03-07 16:12:59] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 啊这 (336780082) 
+[2021-03-07 16:12:59] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1927574904) 
+[2021-03-07 16:12:59] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 啊这 (-98780642) 
+[2021-03-07 16:13:00] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1789110159) 
+[2021-03-07 16:13:00] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 啊这 (497325849) 
+[2021-03-07 16:13:00] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (2103647996) 
+[2021-03-07 16:13:00] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 啊这 (174337642) 
+[2021-03-07 16:13:00] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1821540400) 
+[2021-03-07 16:13:05] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 风魔龙是个秘境 (745814561) 
+[2021-03-07 16:13:17] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息:  这不有手就行 (-462794938) 
+[2021-03-07 16:13:18] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (2047793893) 
+[2021-03-07 16:13:22] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=42aeb2d5a760bdb325e19e37ee640bd8.image] (218753651) 
+[2021-03-07 16:13:28] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 路绘(1950598271) 的消息: 嗯 (1534266039) 
+[2021-03-07 16:13:34] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (-1811891255) 
+[2021-03-07 16:13:35] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-486044833) 
+[2021-03-07 16:13:51] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 北风狼是挑战 (-1032168691) 
+[2021-03-07 16:13:51] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: tmlgbd早上好 (1941477070) 
+[2021-03-07 16:14:29] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 你把雷泽圣遗物换成双战狂双角斗士 (-1250071653) 
+[2021-03-07 16:14:31] [INFO]: 昨日 小浩是坐着难沉喝着teriri吃着咸鱼的清洁工(1874334281) 在群 680754045 内发言最积极, 获得 龙王 标识。 
+[2021-03-07 16:16:30] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 路绘(1950598271) 的消息: 角斗士是什么呀 (723123768) 
+[2021-03-07 16:17:29] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 路绘(1950598271) 的消息: 我好像没有 (1545522862) 
+[2021-03-07 16:18:19] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: 这个 (-988307692) 
+[2021-03-07 16:18:27] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 幻(1875710980) 的消息: [CQ:image,file=393fa56d0b3b71a717ebde99777911e9.image] (-1307529342) 
+[2021-03-07 16:18:42] [INFO]: 新成员 LuckyOwl(516342785) 进入了群 崩坏3||b服||聖殿骑士团(680754045). 
+[2021-03-07 16:18:43] [INFO]: 收到群 崩坏3||b服||聖殿骑士团(680754045) 内 Q群管家(2854196310) 的消息: [CQ:at,qq=516342785] 欢迎欢迎！[CQ:image,file=5881254db86643d83a2b6af1a4491a96.image]
+——来自群管理员（1875710980）的编辑 (581939731) 
+[2021-03-07 16:18:51] [INFO]: Bot退出了群 崩坏3||b服||聖殿骑士团(680754045). 
+[2021-03-07 16:20:02] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 你tmldbg (-1385967742) 
+[2021-03-07 16:20:12] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 你tmlgbd (-630915308) 
+[2021-03-07 16:20:25] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:53621->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 16:20:29] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:53621->127.0.0.1:8080: use of closed network connection 
+[2021-03-07 16:52:35] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 16:52:35] [WARNING]: 将等待10s后启动 
+[2021-03-07 16:52:45] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 16:52:45] [INFO]: 用户交流群: 721829413 
+[2021-03-07 16:52:45] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 16:52:45] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 16:52:50] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 16:52:50] [INFO]: 使用协议: iPad 
+[2021-03-07 16:52:52] [INFO]: Protocol -> connect to server: 157.255.13.249:8080 
+[2021-03-07 16:52:52] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 16:52:52] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 16:52:53] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 16:52:53] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 16:52:55] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 16:53:13] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 16:53:13] [INFO]: 开始加载好友列表... 
+[2021-03-07 16:53:13] [INFO]: 共加载 6 个好友. 
+[2021-03-07 16:53:13] [INFO]: 开始加载群列表... 
+[2021-03-07 16:53:14] [INFO]: 共加载 3 个群. 
+[2021-03-07 16:53:14] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 16:53:14] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 16:53:14] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 16:53:14] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 16:53:14] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 16:53:14] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 16:53:14] [INFO]: 正在检查更新. 
+[2021-03-07 16:53:14] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 16:53:15] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 16:54:52] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:image,file=324e03c592030477ecdd43be5b3ec3ec.image] (1131261614) 
+[2021-03-07 16:55:01] [INFO]: 群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 上传了文件: filter.json 
+[2021-03-07 16:55:17] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:image,file=4dc5317434edecbdc4ecce589b488f7c.image] (-1441920101) 
+[2021-03-07 16:56:19] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 16:56:19] [WARNING]: 将等待10s后启动 
+[2021-03-07 16:56:23] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 16:56:23] [WARNING]: 将等待10s后启动 
+[2021-03-07 16:56:33] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 16:56:33] [INFO]: 用户交流群: 721829413 
+[2021-03-07 16:56:33] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 16:56:33] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 16:56:38] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 16:56:38] [INFO]: 使用协议: iPad 
+[2021-03-07 16:56:39] [INFO]: Protocol -> connect to server: 157.255.13.60:8080 
+[2021-03-07 16:56:39] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 16:56:40] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 16:56:40] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 16:56:40] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 16:56:43] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 16:57:01] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 16:57:37] [INFO]: 开始加载好友列表... 
+[2021-03-07 16:57:38] [INFO]: 共加载 6 个好友. 
+[2021-03-07 16:57:38] [INFO]: 开始加载群列表... 
+[2021-03-07 16:57:38] [INFO]: 共加载 3 个群. 
+[2021-03-07 16:57:38] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 16:57:38] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 16:57:38] [INFO]: 事件过滤器启动成功. 
+[2021-03-07 16:57:38] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 16:57:38] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 16:57:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 16:57:38] [INFO]: 正在检查更新. 
+[2021-03-07 16:57:38] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 16:57:38] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:59718->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 16:57:40] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 16:58:20] [INFO]: 成员 小黑ヽ(•̀ω•́ )ゝ(1173198173) 被 LuckyOwl(516342785) T出了群 lucky调教之旅(855758516). 
+[2021-03-07 16:58:57] [INFO]: 新成员 小黑ヽ(•̀ω•́ )ゝ(1173198173) 进入了群 lucky调教之旅(855758516). 
+[2021-03-07 16:59:20] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 你tmd (-586597619) 
+[2021-03-07 16:59:20] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:59718->127.0.0.1:8080: use of closed network connection 
+[2021-03-07 16:59:23] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 17:00:09] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: ？ (1140878007) 
+[2021-03-07 17:00:15] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: ？ (856119841) 
+[2021-03-07 17:00:30] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 张泰豪 (-1548204112) 
+[2021-03-07 17:00:30] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-725649626) 
+[2021-03-07 17:03:34] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 啊这 (-1267138877) 
+[2021-03-07 17:03:34] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1015034283) 
+[2021-03-07 17:11:04] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:image,file=8e33a046eb224e2b4b5b1190330552f1.image] (1517723631) 
+[2021-03-07 17:20:49] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:xml,data=<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="14" templateID="1" action="web" actionData="AppCmd://OpenContactInfo/?uin=2854196306" a_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;amp;source=sharecard&amp;amp;version=1&amp;amp;uin=2854196306" i_actionData="mqqapi://card/show_pslcard?src_type=internal&amp;amp;source=sharecard&amp;amp;version=1&amp;amp;uin=2854196306" brief="推荐了小冰" sourceMsgId="0" url="https://web.qun.qq.com/qunrobot/data.html?robot_uin=2854196306&amp;amp;_wwv=128&amp;amp;_wv=3" flag="1" adverSign="0" multiMsgFlag="0"><item layout="0" mode="1" advertiser_id="0" aid="0"><summary>推荐机器人</summary><hr hidden="false" style="0" /></item><item layout="2" mode="1" advertiser_id="0" aid="0"><picture cover="mqqapi://card/show_pslcard?src_type=internal&amp;amp;source=sharecard&amp;amp;version=1&amp;amp;uin=2854196306" w="0" h="0" /><title>小冰</title><summary>帐号:2854196306</summary></item><source name="" icon="" action="" appid="-1" /></msg>,resid=14]你的QQ暂不支持查看推荐机器人，请期待后续版本。 (762425209) 
+[2021-03-07 17:20:54] [INFO]: 新成员 小冰(2854196306) 进入了群 lucky调教之旅(855758516). 
+[2021-03-07 17:20:54] [INFO]: 收到群 lucky调教之旅(855758516) 内 小冰(2854196306) 的消息: Hi，我是可爱又毒舌的少女小冰，身怀绝技的群内游戏王，@我说“菜单”开始过招，游戏宝典不定期更新哦~ (-1290454310) 
+[2021-03-07 17:20:58] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: 762425209. 
+[2021-03-07 17:21:08] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:at,qq=2854196306]  菜单 (-1005450676) 
+[2021-03-07 17:21:09] [INFO]: 收到群 lucky调教之旅(855758516) 内 小冰(2854196306) 的消息: [CQ:at,qq=516342785] 会的太多了，不列个菜单都记不住！
+
+💡云吸猫    💡最佳拍档
+
+💡数箱子    💡美食拼图
+
+💡猜成语    💡诗词问答
+
+💡猜灯谜    💡生存挑战
+
+💡猜明星    💡成语接龙
+
+💡猜码图    💡你画我猜
+
+💡猜歌名    💡王者竞猜
+
+💡金句王    💡云游世界
+
+💡动漫达人  🧚审美挑战
+
+💕男友面容  💕女友面容 (1562074102) 
+[2021-03-07 17:21:11] [INFO]: 收到群 lucky调教之旅(855758516) 内 小冰(2854196306) 的消息: [CQ:at,qq=516342785] 虚拟男友和虚拟女友都来QQ啦，快为自己创造一个吧~ (706505568) 
+[2021-03-07 17:21:19] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 小冰(2854196306) 的消息: 706505568. 
+[2021-03-07 17:21:22] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 小冰(2854196306) 的消息: 1562074102. 
+[2021-03-07 17:21:25] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 小冰(2854196306) 的消息: -1290454310. 
+[2021-03-07 17:22:39] [INFO]: 新成员 W[骰](201840750) 进入了群 lucky调教之旅(855758516). 
+[2021-03-07 17:22:49] [INFO]: 收到群 lucky调教之旅(855758516) 内 W[骰](201840750) 的消息: 这里还真是什么人都有啊。比起过去，奇怪的家伙更多了。啊，别误会，那些人的想法我完全不在乎，只是，阿米娅做得似乎还不错，至少她也努力想成为那个人的样子，我还不算讨厌 (-1163692303) 
+[2021-03-07 17:22:54] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 W[骰](201840750) 的消息: -1163692303. 
+[2021-03-07 17:23:20] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:59751->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 17:24:35] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=d648bc45738d63ae8144151f9790ff49.image] (-844872089) 
+[2021-03-07 17:24:35] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:59751->127.0.0.1:8080: use of closed network connection 
+[2021-03-07 17:24:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 17:24:52] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=9b5795f77a8877745e4ba93b8079391b.image] (-1621775104) 
+[2021-03-07 17:28:07] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:59305->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 17:28:33] [INFO]: 成员 W[骰](201840750) 被 LuckyOwl(516342785) T出了群 lucky调教之旅(855758516). 
+[2021-03-07 17:29:40] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 17:29:40] [WARNING]: 将等待10s后启动 
+[2021-03-07 17:29:50] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 17:29:50] [INFO]: 用户交流群: 721829413 
+[2021-03-07 17:29:50] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 17:29:50] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 17:29:55] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 17:29:55] [INFO]: 使用协议: iPad 
+[2021-03-07 17:29:56] [INFO]: Protocol -> connect to server: 157.255.13.124:8080 
+[2021-03-07 17:29:56] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 17:29:57] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 17:29:57] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 17:29:58] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 17:30:00] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 17:30:18] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 17:30:18] [INFO]: 开始加载好友列表... 
+[2021-03-07 17:30:18] [INFO]: 共加载 6 个好友. 
+[2021-03-07 17:30:18] [INFO]: 开始加载群列表... 
+[2021-03-07 17:30:18] [INFO]: 共加载 3 个群. 
+[2021-03-07 17:30:18] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 17:30:18] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 17:30:18] [INFO]: 事件过滤器启动成功. 
+[2021-03-07 17:30:18] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 17:30:18] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 17:30:18] [INFO]: 正在检查更新. 
+[2021-03-07 17:30:18] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 17:30:18] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 17:30:20] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 17:30:25] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (-397238890) 
+[2021-03-07 17:30:25] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1901841452) 
+[2021-03-07 17:33:20] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 张泰豪 (106757306) 
+[2021-03-07 17:33:21] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1741133543) 
+[2021-03-07 17:37:16] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:57799->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 17:44:06] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 17:44:06] [WARNING]: 将等待10s后启动 
+[2021-03-07 17:44:16] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 17:44:16] [INFO]: 用户交流群: 721829413 
+[2021-03-07 17:44:16] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 17:44:16] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 17:44:21] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 17:44:21] [INFO]: 使用协议: iPad 
+[2021-03-07 17:44:23] [INFO]: Protocol -> connect to server: 157.255.13.76:8080 
+[2021-03-07 17:44:23] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 17:44:23] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 17:44:24] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 17:44:24] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 17:44:44] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 17:44:44] [INFO]: 开始加载好友列表... 
+[2021-03-07 17:44:44] [INFO]: 共加载 6 个好友. 
+[2021-03-07 17:44:44] [INFO]: 开始加载群列表... 
+[2021-03-07 17:44:45] [INFO]: 共加载 3 个群. 
+[2021-03-07 17:44:45] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 17:44:45] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 17:44:45] [INFO]: 事件过滤器启动成功. 
+[2021-03-07 17:44:45] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 17:44:45] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 17:44:45] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 17:44:45] [INFO]: 正在检查更新. 
+[2021-03-07 17:44:45] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 17:44:46] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 17:44:52] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 啊这 (-281060977) 
+[2021-03-07 17:44:53] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1983252533) 
+[2021-03-07 17:45:06] [INFO]: 成员 testAccount(212591281) 被 LuckyOwl(516342785) T出了群 lucky调教之旅(855758516). 
+[2021-03-07 17:45:23] [INFO]: 新成员 testAccount(212591281) 进入了群 lucky调教之旅(855758516). 
+[2021-03-07 17:46:27] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=7d30b6b02fe2ff84dae33e74b9b44eed.image] (20002979) 
+[2021-03-07 17:46:33] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 啊这 (-1852955342) 
+[2021-03-07 17:46:41] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: -1852955342. 
+[2021-03-07 17:46:44] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-427223644) 
+[2021-03-07 17:46:56] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=dcf4b6a1fea0ccd42446d75d0b0eec89.image] (-2041668543) 
+[2021-03-07 17:47:26] [INFO]: 成员 testAccount(212591281) 被 LuckyOwl(516342785) T出了群 lucky调教之旅(855758516). 
+[2021-03-07 17:47:37] [INFO]: 新成员 testAccount(212591281) 进入了群 lucky调教之旅(855758516). 
+[2021-03-07 17:48:43] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 签到 (-246829865) 
+[2021-03-07 17:49:15] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=288f23e270c2a864a535225b31642589.image]、 (1749089645) 
+[2021-03-07 17:50:03] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:59990->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 17:50:13] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 签到 (524799483) 
+[2021-03-07 17:50:13] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:59990->127.0.0.1:8080: use of closed network connection 
+[2021-03-07 17:50:16] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 17:50:20] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 签到 (-2128390056) 
+[2021-03-07 17:50:34] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=f66fd86a4e6fa1518ab4224d4027de7b.image] (-165386034) 
+[2021-03-07 17:52:31] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 。！。 (1865234804) 
+[2021-03-07 17:52:33] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: ？ (405408226) 
+[2021-03-07 17:52:36] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:image,file=1599adbeac3f8bf980b3d4e151b97ede.image] (-2003495821) 
+[2021-03-07 17:58:12] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 17:58:12] [WARNING]: 将等待10s后启动 
+[2021-03-07 17:58:22] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 17:58:22] [INFO]: 用户交流群: 721829413 
+[2021-03-07 17:58:22] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 17:58:22] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 17:58:27] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 17:58:27] [INFO]: 使用协议: iPad 
+[2021-03-07 17:58:30] [INFO]: Protocol -> connect to server: 157.255.13.77:8080 
+[2021-03-07 17:58:30] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 17:58:30] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 17:58:31] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 17:58:31] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 17:58:51] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 17:58:51] [INFO]: 开始加载好友列表... 
+[2021-03-07 17:58:51] [INFO]: 共加载 6 个好友. 
+[2021-03-07 17:58:51] [INFO]: 开始加载群列表... 
+[2021-03-07 17:58:52] [INFO]: 共加载 3 个群. 
+[2021-03-07 17:58:52] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 17:58:52] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 17:58:52] [INFO]: 事件过滤器启动成功. 
+[2021-03-07 17:58:52] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 17:58:52] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 17:58:52] [INFO]: 正在检查更新. 
+[2021-03-07 17:58:52] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 17:58:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 17:58:53] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 17:59:05] [INFO]: 成员 testAccount(212591281) 被 LuckyOwl(516342785) T出了群 lucky调教之旅(855758516). 
+[2021-03-07 17:59:14] [INFO]: 新成员 testAccount(212591281) 进入了群 lucky调教之旅(855758516). 
+[2021-03-07 18:00:23] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:49762->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 18:00:39] [INFO]: 收到群 lucky调教之旅(855758516) 内 开甲书院表白墙(3569440659) 的消息: 。。。 (-7199515) 
+[2021-03-07 18:00:39] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:49762->127.0.0.1:8080: use of closed network connection 
+[2021-03-07 18:00:42] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 18:00:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 18:00:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 18:00:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2021-03-07 18:00:52] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 18:01:34] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:49823->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 18:01:53] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 18:01:53] [WARNING]: 将等待10s后启动 
+[2021-03-07 18:02:03] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 18:02:03] [INFO]: 用户交流群: 721829413 
+[2021-03-07 18:02:03] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 18:02:03] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 18:02:08] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 18:02:08] [INFO]: 使用协议: iPad 
+[2021-03-07 18:02:10] [INFO]: Protocol -> connect to server: 157.255.13.77:8080 
+[2021-03-07 18:02:10] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 18:02:10] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:02:11] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:02:11] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:02:31] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 18:02:47] [INFO]: 开始加载好友列表... 
+[2021-03-07 18:02:47] [INFO]: 共加载 6 个好友. 
+[2021-03-07 18:02:47] [INFO]: 开始加载群列表... 
+[2021-03-07 18:02:47] [INFO]: 共加载 3 个群. 
+[2021-03-07 18:02:47] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 18:02:47] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 18:02:47] [INFO]: 事件过滤器启动成功. 
+[2021-03-07 18:02:47] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 18:02:47] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 18:02:47] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 18:02:47] [INFO]: 正在检查更新. 
+[2021-03-07 18:02:47] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 18:02:48] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 18:02:57] [INFO]: 成员 testAccount(212591281) 被 LuckyOwl(516342785) T出了群 lucky调教之旅(855758516). 
+[2021-03-07 18:06:10] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: ￥MJLAcz5Zz7v￥;%%wkFTqav2pg8%%;##X-30llW23sp2t2aE_AO##8;7.1#e1IayFBeIa@/ (-138324363) 
+[2021-03-07 18:06:12] [INFO]: 好友 LuckyOwl(516342785) 撤回了消息: -138324363 
+[2021-03-07 18:06:17] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: /echo 你好 (513995584) 
+[2021-03-07 18:06:29] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: 。。 (387235691) 
+[2021-03-07 18:06:34] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (-921761146) 
+[2021-03-07 18:06:34] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (-1106757104) 
+[2021-03-07 18:06:48] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: /echo 你好 (-588511818) 
+[2021-03-07 18:06:51] [INFO]: 好友 LuckyOwl(516342785) 撤回了消息: -588511818 
+[2021-03-07 18:06:53] [INFO]: 好友 LuckyOwl(516342785) 撤回了消息: 513995584 
+[2021-03-07 18:07:22] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: [CQ:at,qq=1214528099] /echo 原家浩永远滴神 (654404522) 
+[2021-03-07 18:07:22] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1342593852) 
+[2021-03-07 18:07:31] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 。。。 (-832385377) 
+[2021-03-07 18:07:43] [INFO]: 收到好友 LuckyOwl(516342785) 的消息: /echo 233 (574406333) 
+[2021-03-07 18:13:26] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:13:26] [INFO]: 收到来自群 LuckyOwl、丿Lucky丶(805874145) 内用户 『IMayNotComeBack0』(516342785) 的加群邀请. 
+[2021-03-07 18:13:26] [INFO]: Bot进入了群 LuckyOwl、丿Lucky丶(805874145). 
+[2021-03-07 18:13:34] [INFO]: 新成员 testAccount(212591281) 进入了群 LuckyOwl、丿Lucky丶(805874145). 
+[2021-03-07 18:13:50] [INFO]: Bot退出了群 LuckyOwl、丿Lucky丶(805874145). 
+[2021-03-07 18:14:08] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:49939->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 18:14:26] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 18:14:26] [WARNING]: 将等待10s后启动 
+[2021-03-07 18:14:36] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 18:14:36] [INFO]: 用户交流群: 721829413 
+[2021-03-07 18:14:36] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 18:14:36] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 18:14:41] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 18:14:41] [INFO]: 使用协议: iPad 
+[2021-03-07 18:14:42] [INFO]: Protocol -> connect to server: 157.255.13.190:8080 
+[2021-03-07 18:14:42] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 18:14:43] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:14:43] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:14:44] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:14:44] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:14:44] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:14:44] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:14:45] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:14:45] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:15:05] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 18:15:05] [INFO]: 开始加载好友列表... 
+[2021-03-07 18:15:05] [INFO]: 共加载 6 个好友. 
+[2021-03-07 18:15:05] [INFO]: 开始加载群列表... 
+[2021-03-07 18:15:06] [INFO]: 共加载 3 个群. 
+[2021-03-07 18:15:06] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 18:15:06] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 18:15:06] [INFO]: 事件过滤器启动成功. 
+[2021-03-07 18:15:06] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 18:15:06] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 18:15:06] [INFO]: 正在检查更新. 
+[2021-03-07 18:15:06] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 18:15:06] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 18:15:07] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 18:15:37] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 签到 (-1184498167) 
+[2021-03-07 18:15:42] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (543993779) 
+[2021-03-07 18:15:42] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (1466670885) 
+[2021-03-07 18:15:53] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:15:53] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 18:15:53] [INFO]: 收到来自群 LuckyOwl、丿Lucky丶(903609676) 内用户 『IMayNotComeBack0』(516342785) 的加群邀请. 
+[2021-03-07 18:15:54] [INFO]: Bot进入了群 LuckyOwl、丿Lucky丶(903609676). 
+[2021-03-07 18:16:00] [INFO]: 新成员 testAccount(212591281) 进入了群 LuckyOwl、丿Lucky丶(903609676). 
+[2021-03-07 18:16:09] [INFO]: Bot退出了群 LuckyOwl、丿Lucky丶(903609676). 
+[2021-03-07 18:17:47] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:62158->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 19:16:11] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 19:16:11] [WARNING]: 将等待10s后启动 
+[2021-03-07 19:16:21] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 19:16:21] [INFO]: 用户交流群: 721829413 
+[2021-03-07 19:16:21] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 19:16:21] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 19:16:26] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 19:16:26] [INFO]: 使用协议: iPad 
+[2021-03-07 19:16:28] [INFO]: Protocol -> connect to server: 157.255.13.124:8080 
+[2021-03-07 19:16:28] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 19:16:29] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:29] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:29] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:29] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:29] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:29] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:29] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:29] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:29] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:30] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:30] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:30] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:30] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:30] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:30] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:16:31] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-03-07 19:16:50] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 19:16:50] [INFO]: 开始加载好友列表... 
+[2021-03-07 19:16:50] [INFO]: 共加载 6 个好友. 
+[2021-03-07 19:16:50] [INFO]: 开始加载群列表... 
+[2021-03-07 19:16:51] [INFO]: 共加载 3 个群. 
+[2021-03-07 19:16:51] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 19:16:51] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 19:16:51] [INFO]: 事件过滤器启动成功. 
+[2021-03-07 19:16:51] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 19:16:51] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 19:16:51] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 19:16:51] [INFO]: 正在检查更新. 
+[2021-03-07 19:16:51] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 19:16:53] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 19:17:01] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:17:01] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:17:01] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:17:01] [INFO]: 收到来自群 LuckyOwl、丿Lucky丶(917214180) 内用户 『IMayNotComeBack0』(516342785) 的加群邀请. 
+[2021-03-07 19:17:01] [INFO]: Bot进入了群 LuckyOwl、丿Lucky丶(917214180). 
+[2021-03-07 19:17:04] [INFO]: 收到群 LuckyOwl、丿Lucky丶(917214180) 内 LuckyOwl(516342785) 的消息: 你好 (2078717151) 
+[2021-03-07 19:17:06] [INFO]: 收到群 LuckyOwl、丿Lucky丶(917214180) 内 LuckyOwl(516342785) 的消息: 早上好 (216106057) 
+[2021-03-07 19:17:18] [INFO]: 收到群 LuckyOwl、丿Lucky丶(917214180) 内 LuckyOwl(516342785) 的消息: 中午好 (-1671521832) 
+[2021-03-07 19:17:23] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 早上好 (-1792710189) 
+[2021-03-07 19:17:23] [INFO]: 发送群 855758516(855758516)  的消息: [{"type":  ... (204224617) 
+[2021-03-07 19:18:06] [INFO]: 收到群 LuckyOwl、丿Lucky丶(917214180) 内 LuckyOwl(516342785) 的消息: 早上好 (-346445490) 
+[2021-03-07 19:19:07] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:50996->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 19:19:19] [INFO]: 收到群 LuckyOwl、丿Lucky丶(917214180) 内 LuckyOwl(516342785) 的消息: 早上好 (-1952571221) 
+[2021-03-07 19:21:15] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 19:21:15] [WARNING]: 将等待10s后启动 
+[2021-03-07 19:21:25] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 19:21:25] [INFO]: 用户交流群: 721829413 
+[2021-03-07 19:21:25] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 19:21:25] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 19:21:30] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 19:21:30] [INFO]: 使用协议: iPad 
+[2021-03-07 19:21:32] [INFO]: Protocol -> connect to server: 157.255.13.53:8080 
+[2021-03-07 19:21:32] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 19:21:33] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:33] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:33] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:34] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:34] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:34] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:34] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:34] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:34] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:34] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:34] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:34] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:34] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:34] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:34] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:35] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:35] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:35] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:21:55] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 19:21:55] [INFO]: 开始加载好友列表... 
+[2021-03-07 19:21:55] [INFO]: 共加载 6 个好友. 
+[2021-03-07 19:21:55] [INFO]: 开始加载群列表... 
+[2021-03-07 19:21:55] [INFO]: 共加载 4 个群. 
+[2021-03-07 19:21:55] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 19:21:55] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 19:21:55] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 19:21:55] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 19:21:55] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 19:21:55] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 19:21:55] [INFO]: 正在检查更新. 
+[2021-03-07 19:21:55] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 19:21:57] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 19:21:58] [INFO]: 收到群 LuckyOwl、丿Lucky丶(917214180) 内 LuckyOwl(516342785) 的消息: 早上好 (-57077699) 
+[2021-03-07 19:21:58] [INFO]: 发送群 917214180(917214180)  的消息: [{"type":  ... (1703952775) 
+[2021-03-07 19:22:09] [INFO]: 新成员 testAccount(212591281) 进入了群 LuckyOwl、丿Lucky丶(917214180). 
+[2021-03-07 19:22:09] [INFO]: 发送群 917214180(917214180)  的消息: [{"type":  ... (311914769) 
+[2021-03-07 19:22:26] [INFO]: Bot退出了群 LuckyOwl、丿Lucky丶(917214180). 
+[2021-03-07 19:25:39] [WARNING]: 警告: 强烈不推荐通过双击直接运行本程序, 这将导致一些非预料的后果. 
+[2021-03-07 19:25:39] [WARNING]: 将等待10s后启动 
+[2021-03-07 19:25:49] [INFO]: 当前版本:v0.9.40-fix3 
+[2021-03-07 19:25:49] [INFO]: 用户交流群: 721829413 
+[2021-03-07 19:25:49] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-03-07 19:25:49] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-03-07 19:25:54] [INFO]: 开始尝试登录并同步消息... 
+[2021-03-07 19:25:54] [INFO]: 使用协议: iPad 
+[2021-03-07 19:25:56] [INFO]: Protocol -> connect to server: 157.255.13.53:8080 
+[2021-03-07 19:25:56] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-03-07 19:25:57] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:57] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:57] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:58] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:58] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:58] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:58] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:58] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:58] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:59] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:59] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:59] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:59] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:59] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:59] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:59] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:59] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:25:59] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:26:05] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:26:05] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:26:05] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-03-07 19:26:19] [INFO]: 登录成功 欢迎使用: 丿Lucky丶 
+[2021-03-07 19:26:19] [INFO]: 开始加载好友列表... 
+[2021-03-07 19:26:19] [INFO]: 共加载 6 个好友. 
+[2021-03-07 19:26:19] [INFO]: 开始加载群列表... 
+[2021-03-07 19:26:20] [INFO]: 共加载 4 个群. 
+[2021-03-07 19:26:20] [INFO]: 信息数据库初始化完成. 
+[2021-03-07 19:26:20] [INFO]: 正在加载事件过滤器. 
+[2021-03-07 19:26:20] [WARNING]: 事件过滤器启动失败: open filter.json: The system cannot find the file specified. 
+[2021-03-07 19:26:20] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-03-07 19:26:20] [INFO]: アトリは、高性能ですから! 
+[2021-03-07 19:26:20] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 19:26:20] [INFO]: 正在检查更新. 
+[2021-03-07 19:26:20] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-03-07 19:26:21] [INFO]: 检查更新完成. 当前已运行最新版本. 
+[2021-03-07 19:26:24] [INFO]: 收到群 LuckyOwl、丿Lucky丶(917465110) 内 LuckyOwl(516342785) 的消息: 早上好 (-1180546367) 
+[2021-03-07 19:26:24] [INFO]: 发送群 917465110(917465110)  的消息: [{"type":  ... (-828016041) 
+[2021-03-07 19:26:42] [INFO]: 新成员 testAccount(212591281) 进入了群 LuckyOwl、丿Lucky丶(917465110). 
+[2021-03-07 19:26:42] [INFO]: 发送群 917465110(917465110)  的消息: [{"type":  ... (1354887156) 
+[2021-03-07 19:27:06] [INFO]: 成员 testAccount(212591281) 离开了群 LuckyOwl、丿Lucky丶(917465110). 
+[2021-03-07 19:27:06] [INFO]: 发送群 917465110(917465110)  的消息: [{"type":  ... (667344738) 
+[2021-03-07 19:27:24] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=ba5d1ecb8e9f5650f5289e759eca215b.image] (2066417919) 
+[2021-03-07 19:27:46] [INFO]: 新成员 testAccount(212591281) 进入了群 LuckyOwl、丿Lucky丶(917465110). 
+[2021-03-07 19:27:46] [INFO]: 发送群 917465110(917465110)  的消息: [{"type":  ... (-1093693736) 
+[2021-03-07 19:27:57] [INFO]: 成员 testAccount(212591281) 被 LuckyOwl(516342785) T出了群 LuckyOwl、丿Lucky丶(917465110). 
+[2021-03-07 19:27:57] [INFO]: 发送群 917465110(917465110)  的消息: [{"type":  ... (-909590962) 
+[2021-03-07 19:28:16] [INFO]: Bot退出了群 LuckyOwl、丿Lucky丶(917465110). 
+[2021-03-07 19:30:39] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 签到 (-447767204) 
+[2021-03-07 19:32:21] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: json (-1840730678) 
+[2021-03-07 19:33:17] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=d9578e35488799e546b6e31601f44209.image] (188873840) 
+[2021-03-07 19:33:22] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: [CQ:image,file=4d8953ec82d2f6f52b2ed689226f1501.image] (2085014758) 
+[2021-03-07 19:34:32] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:63023->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 19:34:35] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:63023->127.0.0.1:8080: use of closed network connection 
+[2021-03-07 19:34:38] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 19:34:45] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 签到 (-319172233) 
+[2021-03-07 19:36:47] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 签到 (-1677794847) 
+[2021-03-07 19:38:53] [INFO]: 收到群 lucky调教之旅(855758516) 内 小黑ヽ(•̀ω•́ )ゝ(1173198173) 的消息: 签到 (1706706314) 
+[2021-03-07 19:40:51] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 签到 (314406172) 
+[2021-03-07 19:41:05] [INFO]: 收到群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 的消息: 签到 (-1951128410) 
+[2021-03-07 19:41:17] [INFO]: 群 lucky调教之旅(855758516) 内 LuckyOwl(516342785) 撤回了 LuckyOwl(516342785) 的消息: 314406172. 
+[2021-03-07 19:42:03] [INFO]: 收到群 lucky调教之旅(855758516) 内 开甲书院表白墙(3569440659) 的消息: 亲爱的群成员(516342785),签到成功(*^▽^*)~
+你已经连续签到1天
+今天签到获得硬币1
+账户内硬币数：0 (-55372752) 
+[2021-03-07 19:42:28] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:49171->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 19:42:30] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:49171->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 19:42:33] [INFO]: 开始尝试连接到反向WebSocket Universal服务器: ws://127.0.0.1:8080/cqhttp/ws 
+[2021-03-07 19:48:07] [WARNING]: 监听反向WS API时出现错误: read tcp 127.0.0.1:55697->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-03-07 19:48:10] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:55697->127.0.0.1:8080: use of closed network connection 

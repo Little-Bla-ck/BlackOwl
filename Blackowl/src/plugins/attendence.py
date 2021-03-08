@@ -12,12 +12,20 @@ sighed = [0,0,0,0,0]
 # 0:id
 # 1:money
 # 2:sigh_days
+# 3:last_sigh_day
+today = datetime.day.today()
 
 @attendence.handle()
 async def sigh(bot:Bot, event:GroupMessageEvent, state:T_State):
     id = str(event.get_user_id())
-    with open("C:\Coding\Python\kqhttp\\group_data.json", "r",encoding = 'utf-8') as f:
+    if today.__eq__(sighed[3]):
+        msg = f"{id},你今天不是已经签过到了嘛~"
+        await attendence.finish(msg)
+    else:
+        sighed[3] = today
+    with open(".\group_data.json", "r",encoding = 'utf-8') as f:
         data = list(json.load(f))
+
     for i in range(0, len(data)):
         lipu = data[i]
         if str(lipu[0]) == id:
@@ -32,13 +40,9 @@ async def sigh(bot:Bot, event:GroupMessageEvent, state:T_State):
     
     data.append(sighed)
     msg = f'亲爱的群成员({id}),签到成功(*^▽^*)~\n你已经连续签到{sighed[2]}天\n今天签到获得硬币{int(money_cul(sighed[2]))}\n账户内硬币数：{sighed[1]}'
-    with open("C:\Coding\Python\kqhttp\\group_data.json", "w",encoding = 'utf-8') as f:
+    with open(".\group_data.json", "w",encoding = 'utf-8') as f:
         f.write(json.dumps(data))
     await attendence.finish(msg)
-
-    
-
-
 
 
 def money_cul(days):
@@ -47,3 +51,8 @@ def money_cul(days):
     days = float(days)
     money = 10 * math.log(days * 0.06 + 1)
     return int(money)
+
+'''
+    使用前需要现在规定路径建立对应的json文件并添加一个空列表，路径使用相对路径；
+    json存储读取文件比较繁琐，尚未处理分文件存储，该版本仅供功能性测试
+'''

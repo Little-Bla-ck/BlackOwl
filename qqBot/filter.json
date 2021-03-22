@@ -4,9 +4,12 @@
             "message_type": "group",
             "group_id": {
                 ".in": [
-                    855758516
+                    855758516,885935231
                 ]
             }
+        },
+        {
+            "message_type": "private"
         }
     ]
 }
